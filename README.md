@@ -3,7 +3,7 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-1. Language and Terminology
+1. Language and Terminology 
 Tech Experts: Use specialized terminology and jargon that they are familiar with. Experts typically appreciate in-depth explanations that demonstrate a deep understanding of the technology.
 
 Example: When explaining cloud infrastructure to a tech-savvy audience, you might use terms like "containers," "Kubernetes," or "scalability" without needing to define them.
